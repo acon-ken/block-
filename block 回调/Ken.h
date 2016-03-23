@@ -10,6 +10,4 @@
 
 @interface Ken : NSObject
 @property(nonatomic,copy)NSString *name;
-@property(nonatomic,copy)NSInteger *age;
-
 @end

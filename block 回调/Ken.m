@@ -9,6 +9,6 @@
 #import "Ken.h"
 
 @implementation Ken
-@synthesize age;
+
 @synthesize name;
 @end

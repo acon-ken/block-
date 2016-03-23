@@ -15,5 +15,6 @@
 {
     UIColor *temp = [UIColor greenColor];
     Changcolorblock(temp); //执行block
+    NSLog(@"add  a new ");
 }
 @end
