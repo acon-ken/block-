@@ -11,4 +11,13 @@
 @implementation Ken
 
 @synthesize name;
+
+
+-(void)log{
+    
+    
+    
+    //  add   print
+    NSLog(@"add ");
+}
 @end
